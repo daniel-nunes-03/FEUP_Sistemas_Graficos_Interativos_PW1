@@ -24,10 +24,10 @@
   - The scene also contains an ambient light which works as a source of illumination for everything in the scene, and a pointlight made with the purpouse of giving a different and more pleasant color to the room.
 
   - A print of the created scene with the controls minimized can be found in the relative link below:
-    - https://gitlab.up.pt/meic-sgi/sgi-2024-2025/t06/sgi-t06-g09/-/blob/main/tp1/scene/scene.png
+    - https://github.com/daniel-nunes-03/FEUP_Sistemas_Graficos_Interativos_PW1/blob/main/scene/scene.png
 
   - The scene can be rendered with a local web server (in VSCode it could be an extension like "Live Server") by running the file described in the relative link below:
-    - https://gitlab.up.pt/meic-sgi/sgi-2024-2025/t06/sgi-t06-g09/-/blob/main/tp1/index.html
+    - https://github.com/daniel-nunes-03/FEUP_Sistemas_Graficos_Interativos_PW1/blob/main/index.html
 ----
 ## Issues/Problems
 
